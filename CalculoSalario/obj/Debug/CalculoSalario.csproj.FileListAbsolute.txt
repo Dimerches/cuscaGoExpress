@@ -1,0 +1,11 @@
+C:\Users\Edgar\Desktop\Progra C#\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe.config
+C:\Users\Edgar\Desktop\Progra C#\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe
+C:\Users\Edgar\Desktop\Progra C#\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.pdb
+C:\Users\Edgar\Desktop\Progra C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.AssemblyReference.cache
+C:\Users\Edgar\Desktop\Progra C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgar\Desktop\Progra C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.Form1.resources
+C:\Users\Edgar\Desktop\Progra C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.Properties.Resources.resources
+C:\Users\Edgar\Desktop\Progra C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.GenerateResource.cache
+C:\Users\Edgar\Desktop\Progra C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\Desktop\Progra C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.exe
+C:\Users\Edgar\Desktop\Progra C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.pdb
